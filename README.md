@@ -6,7 +6,7 @@ A simple and beautiful Valentine’s Day-themed project to send personalized wis
 
 ## Live Demo
 
-You can view the live version of the project hosted on [Vercel](https://your-project-name.vercel.app).
+You can view the live version of the project hosted on [Vercel](https://valentine-wish-nine.vercel.app/).
 
 ---
 
